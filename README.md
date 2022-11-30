@@ -1,6 +1,6 @@
 Cloning gym website using React.js and Tailwind CSS
 
-(https://www.muscleandstrength.com/)
+(https://www.muscleandstrength.com/)<br>
 .<br>
 .<br>
 .<br>
