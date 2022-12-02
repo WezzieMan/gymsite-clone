@@ -1,3 +1,4 @@
+import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
 function App() {
@@ -5,7 +6,9 @@ function App() {
     <div className="App">
        {/* Navbar */}
        <Navbar />
+
       {/* Hero */}
+      <Hero />
       {/* Another Add */}
       {/* NEW AT MUSCLE & STRENGTH */}
       {/* TRENDING IN WORKOUTS */}
