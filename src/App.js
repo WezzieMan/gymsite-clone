@@ -1,6 +1,8 @@
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import FirstArticle from "./components/FirstArticle";
+import Footer from "./components/Footer";
+import Ad from "./components/Ad";
 
 function App() {
   return (
@@ -12,15 +14,13 @@ function App() {
       <Hero />
 
       {/* Another Add */}
+      <Ad />
 
       {/* NEW AT MUSCLE & STRENGTH */}
       <FirstArticle />
 
-      {/* TRENDING IN WORKOUTS */}
-      {/* TRENDING IN ARTICLES */}
-      {/* MOST VIEWED EXERCISE GUIDES */}
-      {/* About */}
       {/* Footer */}
+      <Footer />
     </div>
   );
 }
