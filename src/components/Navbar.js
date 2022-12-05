@@ -40,9 +40,9 @@ const Navbar = () => {
           <div className='items-center hidden relative md:flex'>
             <input 
               type="search" 
-              className='rounded-[0.4rem] py-1.4 w-[26rem] lg:w-[36rem]'
+              className='rounded-[0.4rem] py-1.4 w-[26rem] lg:w-[36rem] p-[.2rem]'
             />
-           <div className="absolute bg-[#0072cf]  w-[2rem] h-[1.6rem] right-0 flex items-center justify-center rounded-r-[0.4rem]">
+           <div className="absolute bg-[#0072cf]  w-[2rem] h-[2rem] right-0 flex items-center justify-center rounded-r-[0.4rem]">
               <FiSearch className="text-[26px] text-white" />
             </div>
           </div>
